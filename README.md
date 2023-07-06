@@ -17,7 +17,7 @@ Using starter code, I created a note taker application. I used Express.js, uuid,
 https://radiant-dusk-72916-313109c5b92d.herokuapp.com/notes
 
 ## Screenshot of Application
-
+![image](https://github.com/camilleramos1/note-taker/assets/129894673/fed6e4cd-e78e-4b1d-872b-f3c8e9e953d8)
 
 ## Installation 💾
 This application is deployed on Heroku, so user is able to simply click the deployed application link to conveniently use the app. To use the app locally, user needs to clone this repo and ensure they have Nodejs installed. Open the files, and run node server.js in the terminal. 
