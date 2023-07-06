@@ -14,7 +14,7 @@
 Using starter code, I created a note taker application. I used Express.js, uuid, and Nodejs to apply functionality to the front end starter code that was provided. 
 
 ## Link To Live Application 📄
-https://radiant-dusk-72916-313109c5b92d.herokuapp.com/notes
+https://radiant-dusk-72916-313109c5b92d.herokuapp.com/
 
 ## Screenshot of Application
 ![image](https://github.com/camilleramos1/note-taker/assets/129894673/fed6e4cd-e78e-4b1d-872b-f3c8e9e953d8)
